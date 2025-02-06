@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timeassassinRG
-- 📫 How to reach me: timeassassinRG@gmail.com / alessio.mezzina01@gmail.com
+- 📫 How to reach me: timeassassinRG@gmail.com / alessio.mezzina01@gmail.com / alessio.mezzina@phd.unict.it
 - 🎂 10/01/2001
 
 <!---
