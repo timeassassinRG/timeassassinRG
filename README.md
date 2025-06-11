@@ -18,7 +18,8 @@
 | **M.Sc.** | Computer Science (Data Science), 2024 — thesis on real-time adaptive metaheuristics for dynamic map labeling (110 / 110 L) |
 | **B.Sc.** | Computer Science, 2022 — thesis “Visual Sonar: simulatore di acustica subacquea e sistemi sonar” (110 / 110 L) |
 | **Industry** | SDE Intern, **STMicroelectronics** (Feb – Dec 2023) — PoCs with Power Automate Desktop |
-| **Tutoring** | University tutor for *Operating Systems* & *Algorithms* courses (2023-2025) |
+| **Tutoring** | University tutor for *Operating Systems* courses (2025) |
+| **Tutoring** | University tutor for *Algorithms* courses (2024-2025) |
 
 ---
 > “You don’t need a reason to help people.”  
