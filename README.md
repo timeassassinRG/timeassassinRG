@@ -5,21 +5,6 @@
   <samp>aka <strong>@timeassassinRG</strong> — coder, puzzle-solver, researcher</samp>
 </p>
 
----
-
-### ⚡ Quick Bytes
-- 🧩 **Optimization geek** — from metaheuristics to ML-driven search.
-- 🚀 **Code alchemist** — C / C++ / Python by day, LaTeX wizard by night.
-- 🕶️ **Quests** — teaching OS & Algorithms, modding games.
-- 🎮 **Always** up for a boss fight (classic RPG enjoyer).
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timeassassinRG&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=timeassassinRG&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-</p>
-
 ### ✉️ Get in Touch
 | Channel | Link |
 | ------- | ---- |
