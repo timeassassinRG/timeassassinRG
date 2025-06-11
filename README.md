@@ -13,7 +13,6 @@
 
 ### 🗂 CV Snapshot
 | | |
-|---|---|
 | **Current** | PhD Student in Computer Science (2024 – present), University of Catania — industrial track with **KOEXAI SRL**, working on semantic generative AI |
 | **M.Sc.** | Computer Science (Data Science), 2024 — thesis on real-time adaptive metaheuristics for dynamic map labeling (110 / 110 L) |
 | **B.Sc.** | Computer Science, 2022 — thesis “Visual Sonar: simulatore di acustica subacquea e sistemi sonar” (110 / 110 L) |
