@@ -12,11 +12,15 @@
 | Academic | alessio.mezzina@phd.unict.it |
 | LinkedIn | [linkedin.com/in/alessio-mezzina]([url](https://www.linkedin.com/in/alessio-mezzina-97b9bb205/))|
 
----
+### 🗂 CV Snapshot
+| | |
+|---|---|
+| **Current** | PhD Candidate in Computer Science (2024 – present), University of Catania — industrial track with **KOEXAI SRL**, working on semantic generative AI |
+| **M.Sc.** | Computer Science (Data Science), 2024 — thesis on real-time adaptive metaheuristics for dynamic map labeling (110 / 110 L) |
+| **B.Sc.** | Computer Science, 2022 — thesis “Visual Sonar: simulatore di acustica subacquea e sistemi sonar” (110 / 110 L) |
+| **Industry** | SDE Intern, **STMicroelectronics** (Feb – Dec 2023) — PoCs with Power Automate Desktop |
+| **Tutoring** | University tutor for *Operating Systems* & *Algorithms* courses (2024-2025) |
 
-> “ ’Tis a fool’s choice whether to walk the path laid out before thee, or to reject it. But **choose thou must, Arisen.** ”  
-> — **Grigori**, *Dragon’s Dogma: Dark Arisen*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=timeassassinRG&style=flat-square&color=blue" alt="visitors"/>
-</p>
+--
+> “You don’t need a reason to help people.”  
+> — **Zidane Tribal**, *Final Fantasy IX*
