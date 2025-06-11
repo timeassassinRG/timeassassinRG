@@ -10,7 +10,6 @@
 | ------- | ---- |
 | Email (primary) | **alessio.mezzina01@gmail.com** |
 | Academic | alessio.mezzina@phd.unict.it |
-| LinkedIn | [linkedin.com/in/alessio-mezzina]([url](https://www.linkedin.com/in/alessio-mezzina-97b9bb205/))|
 
 ### 🗂 CV Snapshot
 | | |
